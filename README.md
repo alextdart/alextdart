@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning CPSC/BUCS at UBC
+-  I’m currently learning CPSC/BUCS at UBC
+-  I'm currently working on both personal and class projects
 
 <!--
 **alextdart/alextdart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
