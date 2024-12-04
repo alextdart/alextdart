@@ -1,4 +1,4 @@
-## Hi there 👋
+## Alex Dart
 
 -  I’m currently learning CPSC/BUCS at UBC
 -  I'm currently working on both personal and class projects
