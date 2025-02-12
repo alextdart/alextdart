@@ -13,8 +13,7 @@ I'm a Business + Computer Science student at UBC Vancouver and a passionate soft
 Here are some of my projects:
 - **[ubcguessr](https://github.com/yourusername/ubcguessr)** - A fun game inspired by Geoguessr, but all about UBC locations! 🌍📍
 - **[alexdart.com](https://alexdart.com)** - My personal portfolio to showcase my work, skills, and resume 🌟
-- **(WIP) Sentiment Analysis of UBC Courses** - Analyzing student feedback from Reddit to evaluate courses at UBC using sentiment analysis 📊
-- **(WIP) YouTube Timestamped Comments** - A Chrome extension to add SoundCloud-style timestamped comments to YouTube videos 🎶
+- **(WIP) Secret Mystery Projects (billion dollar ideas, can't reveal obviously :P)
 
 ### 🌱 Currently Learning
 - Machine Learning
