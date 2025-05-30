@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alex!
+# Alex Dart
 
 I'm a Business + Computer Science student at UBC Vancouver and a passionate software developer. I'm currently building web applications, exploring machine learning, and working on a few side projects.
 
@@ -10,10 +10,9 @@ I'm a Business + Computer Science student at UBC Vancouver and a passionate soft
 - 🌱 Always learning and improving my skills, currently diving into **AI**, **web development**, and **data analysis**
 
 ### 🚀 Projects
-Here are some of my projects:
+Here are some of my recent personal projects:
 - **[ubcguessr](https://github.com/yourusername/ubcguessr)** - A fun game inspired by Geoguessr, but all about UBC locations! 🌍📍
 - **[alexdart.com](https://alexdart.com)** - My personal portfolio to showcase my work, skills, and resume 🌟
-- **(WIP) Secret Mystery Projects** (billion dollar ideas, can't reveal obviously :P)
 
 ### 🌱 Currently Learning
 - Machine Learning
