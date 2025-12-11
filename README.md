@@ -1,26 +1,13 @@
 # Alex Dart
 
-I'm a Business + Computer Science student at UBC Vancouver and a passionate software developer. I'm currently building web applications, exploring machine learning, and working on a few side projects.
+I'm a Business + Computer Science student at UBC Vancouver and passionate about tech and software. I'm currently building web applications, exploring machine learning and blockchain, and working on a few side projects.
 
-### 🧑‍💻 About Me
-- 🌍 Based in **Vancouver, Canada**
-- 🎓 Currently studying a **Business and Computer Science** combined major at UBC
-- 💻 Experienced with **JavaScript** and **Python**
-- 🚀 Creator of **[ubcguessr](https://github.com/alextdart/ubcguessr)**, a Geoguessr-inspired game focused on UBC campus locations
-- 🌱 Always learning and improving my skills, currently diving into **AI**, **web development**, and **data analysis**
+### About Me
+- Based in **Vancouver, Canada**
+- Most experienced with **JavaScript** and **Python**
+- Creator of **[ubcguessr](https://github.com/alextdart/ubcguessr)**, a Geoguessr-inspired game focused on UBC campus locations
+- Currently diving into **AI**, **web development**, **blockchain/crypto**, and **data analysis**
 
-### 🚀 Projects
-Here are some of my recent personal projects:
-- **[ubcguessr](https://github.com/yourusername/ubcguessr)** - A fun game inspired by Geoguessr, but all about UBC locations! 🌍📍
-- **[alexdart.com](https://alexdart.com)** - My personal portfolio to showcase my work, skills, and resume 🌟
-
-### 🌱 Currently Learning
-- Machine Learning
-- Advanced JavaScript frameworks (e.g., React, Node.js)
-- Web app performance optimization
-
-### 📫 How to Reach Me
-- ✉️ Email: [alexanderthomasdart@gmail.com](mailto:alexanderthomasdart@gmail.com)
-- 🌐 Website: [alexdart.com](https://alexdart.com)
-
-Thanks for visiting my profile! Feel free to check out my projects, open an issue, or reach out to collaborate! 🚀
+### How to Reach Me
+- Email me at: [alexanderthomasdart@gmail.com](mailto:alexanderthomasdart@gmail.com)
+- See projects and more at: [alexdart.com](https://alexdart.com)
